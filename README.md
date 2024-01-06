@@ -1,4 +1,4 @@
-# Bayesian Portfolio Optimisation
+# Bayesian Portfolio Optimization
 
 This repository is an introduction into portfolio optimization theory with bayesian statistics and will help you to understand the key concepts of these fields with hands-on style.
 
